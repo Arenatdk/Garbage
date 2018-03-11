@@ -1,0 +1,7 @@
+D:\Project\c#\itvdn\3Inheritance\Zad0\Zad0\bin\Debug\Zad0.exe.config
+D:\Project\c#\itvdn\3Inheritance\Zad0\Zad0\bin\Debug\Zad0.exe
+D:\Project\c#\itvdn\3Inheritance\Zad0\Zad0\bin\Debug\Zad0.pdb
+D:\Project\c#\itvdn\3Inheritance\Zad0\Zad0\obj\Debug\Zad0.csprojResolveAssemblyReference.cache
+D:\Project\c#\itvdn\3Inheritance\Zad0\Zad0\obj\Debug\Zad0.csproj.CoreCompileInputs.cache
+D:\Project\c#\itvdn\3Inheritance\Zad0\Zad0\obj\Debug\Zad0.exe
+D:\Project\c#\itvdn\3Inheritance\Zad0\Zad0\obj\Debug\Zad0.pdb

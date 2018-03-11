@@ -1,0 +1,7 @@
+D:\Project\c#\itvdn\5\Indexers5\zad4\bin\Debug\zad4.exe.config
+D:\Project\c#\itvdn\5\Indexers5\zad4\bin\Debug\zad4.exe
+D:\Project\c#\itvdn\5\Indexers5\zad4\bin\Debug\zad4.pdb
+D:\Project\c#\itvdn\5\Indexers5\zad4\obj\Debug\zad4.csprojResolveAssemblyReference.cache
+D:\Project\c#\itvdn\5\Indexers5\zad4\obj\Debug\zad4.csproj.CoreCompileInputs.cache
+D:\Project\c#\itvdn\5\Indexers5\zad4\obj\Debug\zad4.exe
+D:\Project\c#\itvdn\5\Indexers5\zad4\obj\Debug\zad4.pdb

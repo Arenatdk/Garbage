@@ -1,0 +1,7 @@
+D:\Project\c#\1Classes\Z3\Zad3\bin\Debug\Zad3.exe.config
+D:\Project\c#\1Classes\Z3\Zad3\bin\Debug\Zad3.exe
+D:\Project\c#\1Classes\Z3\Zad3\bin\Debug\Zad3.pdb
+D:\Project\c#\1Classes\Z3\Zad3\obj\Debug\Zad3.csprojResolveAssemblyReference.cache
+D:\Project\c#\1Classes\Z3\Zad3\obj\Debug\Zad3.csproj.CoreCompileInputs.cache
+D:\Project\c#\1Classes\Z3\Zad3\obj\Debug\Zad3.exe
+D:\Project\c#\1Classes\Z3\Zad3\obj\Debug\Zad3.pdb

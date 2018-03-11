@@ -1,0 +1,6 @@
+D:\Project\c#\itvdn\12\WindowsFormsApp1\MVP\obj\Debug\MVP.csproj.CoreCompileInputs.cache
+D:\Project\c#\itvdn\12\WindowsFormsApp1\MVP\bin\Debug\MVP.exe.config
+D:\Project\c#\itvdn\12\WindowsFormsApp1\MVP\bin\Debug\MVP.exe
+D:\Project\c#\itvdn\12\WindowsFormsApp1\MVP\bin\Debug\MVP.pdb
+D:\Project\c#\itvdn\12\WindowsFormsApp1\MVP\obj\Debug\MVP.exe
+D:\Project\c#\itvdn\12\WindowsFormsApp1\MVP\obj\Debug\MVP.pdb

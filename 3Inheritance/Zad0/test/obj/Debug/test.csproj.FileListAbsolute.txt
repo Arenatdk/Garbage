@@ -1,0 +1,7 @@
+D:\Project\c#\itvdn\3Inheritance\Zad0\test\bin\Debug\test.exe.config
+D:\Project\c#\itvdn\3Inheritance\Zad0\test\bin\Debug\test.exe
+D:\Project\c#\itvdn\3Inheritance\Zad0\test\bin\Debug\test.pdb
+D:\Project\c#\itvdn\3Inheritance\Zad0\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\Project\c#\itvdn\3Inheritance\Zad0\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Project\c#\itvdn\3Inheritance\Zad0\test\obj\Debug\test.exe
+D:\Project\c#\itvdn\3Inheritance\Zad0\test\obj\Debug\test.pdb

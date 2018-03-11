@@ -1,0 +1,15 @@
+D:\Project\c#\itvdn\12\WindowsFormsApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Project\c#\itvdn\12\WindowsFormsApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Project\c#\itvdn\12\WindowsFormsApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Project\c#\itvdn\12\WindowsFormsApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+D:\Project\c#\itvdn\12\WindowsFormsApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Project\c#\itvdn\12\WindowsFormsApp1\WpfApp1\obj\Debug\App.g.cs
+D:\Project\c#\itvdn\12\WindowsFormsApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Project\c#\itvdn\12\WindowsFormsApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Project\c#\itvdn\12\WindowsFormsApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\Project\c#\itvdn\12\WindowsFormsApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Project\c#\itvdn\12\WindowsFormsApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Project\c#\itvdn\12\WindowsFormsApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+D:\Project\c#\itvdn\12\WindowsFormsApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Project\c#\itvdn\12\WindowsFormsApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Project\c#\itvdn\12\WindowsFormsApp1\WpfApp1\obj\Debug\WpfApp1.pdb
